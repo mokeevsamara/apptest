@@ -6,10 +6,10 @@
 		"feed_sources":[
 			{
 				"id":"bbc",
-				"title":"BBC",
-				"description":"The latest stories from the World section of the BBC News web site.",
+				"title":"ТЫ - предприниматель",
+				"description":"Крутятские новости Самары",
 				"image":"img/feeds/logos/bbc.jpg",
-				"url":"https://feeds.bbci.co.uk/news/world/rss.xml"
+				"url":"http://molpred63.ru/feed/"
 			}
 		]
 	},
